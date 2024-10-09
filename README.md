@@ -18,11 +18,11 @@
 
 - 👯 I’m looking to collaborate on **Machine learning**
 
-- 👨‍💻 All of my projects are available at [https://kazuhaslayer.site/](https://kazuhaslayer.site/)
+- 👨‍💻 My portfolio website : [https://kazuhaslayer.site/](https://kazuhaslayer.site/)
 
 - 📫 How to reach me **priyansuushukla@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Of3lDqMuWjvOZgWAogprIr_dzeAlSOSr/view?usp=sharing](https://drive.google.com/file/d/1Of3lDqMuWjvOZgWAogprIr_dzeAlSOSr/view?usp=sharing)
+- 📄 Know ABOUT ME [https://drive.google.com/file/d/1Of3lDqMuWjvOZgWAogprIr_dzeAlSOSr/view?usp=sharing](https://drive.google.com/file/d/1Of3lDqMuWjvOZgWAogprIr_dzeAlSOSr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
