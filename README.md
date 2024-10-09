@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Shukla</h1>
 <h3 align="center">I'm a Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kazuha2004&label=Profile%20views&color=0e75b6&style=flat" alt="kazuha2004" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=kazuha2004&label=Profile%20views&color=0e75b6&style=flat" alt="kazuha2004" /> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazuha2004" alt="kazuha2004" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kazuha2004&row=2&column=4&margin-w=15&margin-h=15" alt="kazuha2004" />
+  </a> 
+</p>
+
 
 - 🔭 I’m currently working on [Face Recognition Attendance System](https://github.com/kazuha2004/FACE_RECOGNITION_ATTENDANCE_SYSTEM)
 
