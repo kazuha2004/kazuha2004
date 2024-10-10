@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **priyansuushukla@gmail.com**
 
-- 📄 Know ABOUT ME [https://drive.google.com/file/d/1Of3lDqMuWjvOZgWAogprIr_dzeAlSOSr/view?usp=sharing](https://drive.google.com/file/d/1Of3lDqMuWjvOZgWAogprIr_dzeAlSOSr/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1Of3lDqMuWjvOZgWAogprIr_dzeAlSOSr/view?usp=sharing](https://drive.google.com/file/d/1Of3lDqMuWjvOZgWAogprIr_dzeAlSOSr/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
