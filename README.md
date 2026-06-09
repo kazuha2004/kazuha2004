@@ -72,6 +72,14 @@
 
 ---
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kazuha2004&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 ### 🔗 Connect with me
 
 <p align="left">
